@@ -1,2 +1,2 @@
-# Projeto_Python_seg
+# Programa gráfico de integração
 Programa de integração numérica
